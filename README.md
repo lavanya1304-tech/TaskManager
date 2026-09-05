@@ -23,3 +23,8 @@ Frontend Framework: React.js
 Data Storage: localStorage
 Version Control: Git and GitHub for version tracking
 Deployment: Deploy on GitHub Pages or Netlify
+Required Tools:
+Code Editor: Visual Studio Code (or your preferred editor)
+Browser: Google Chrome (or any modern browser)
+Node.js & npm: To manage dependencies and run the React application
+This journey will teach you not just how to code, but how to think like a developer and solve real-world problems. Ready to start? Let's dive into building TaskBuddy step by step!
